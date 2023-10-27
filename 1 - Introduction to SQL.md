@@ -1,4 +1,4 @@
-## Section 1.1: What is SQL?
+## 1.1: What is SQL?
 
 Structured Query Language (SQL) is a powerful and standardized programming language designed for managing, manipulating, and querying data stored in relational database management systems (RDBMS). It provides a structured way to interact with databases, making it possible to perform a wide range of tasks, from creating and updating data to retrieving specific information and even managing the structure of a database.
 
